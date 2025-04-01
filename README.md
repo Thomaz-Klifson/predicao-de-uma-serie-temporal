@@ -1,1 +1,2 @@
-# Prediá∆o de uma sÇrie temporal 
+# Predi√ß√£oo de uma s√©rie temporal 
+
