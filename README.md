@@ -1,2 +1,2 @@
-# Prediçãoo de uma série temporal 
+# Predição de uma série temporal 
 
